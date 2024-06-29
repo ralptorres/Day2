@@ -57,6 +57,19 @@ body {
   align-items: flex-start; */
 }
 
+/* .p2:hover {
+  background-color: red;
+  
+} */
+
+/* .p2 p {
+  color: aqua;
+} */
+
+.p2 p:nth-of-type(2) {
+  color: brown;
+}
+
 .p3 {
   /* border: 1px solid black; */
   height: 100 px;
